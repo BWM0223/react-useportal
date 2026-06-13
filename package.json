@@ -1,6 +1,9 @@
 {
   "name": "react-useportal",
   "version": "1.0.12",
+  "bugs": {
+    "url": "https://github.com/iamthesiz/react-useportal/issues"
+  },
   "homepage": "https://codesandbox.io/s/w6jp7z4pkk",
   "main": "dist/usePortal.js",
   "repository": {
